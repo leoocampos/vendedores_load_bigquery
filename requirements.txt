@@ -1,0 +1,7 @@
+flask
+gunicorn
+pandas
+openpyxl
+pytz
+google-cloud-storage
+google-cloud-bigquery
