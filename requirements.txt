@@ -5,3 +5,4 @@ openpyxl
 pytz
 google-cloud-storage
 google-cloud-bigquery
+pyarrow
